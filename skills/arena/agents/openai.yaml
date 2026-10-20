@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: arena
+  short_description: 針對同一任務比較多個候選方案，依明確標準選擇基礎方案並整合、驗證成果。

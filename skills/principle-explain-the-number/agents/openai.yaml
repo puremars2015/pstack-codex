@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-explain-the-number
+  short_description: 採信或回報測量數字前，確認樣本、變異、瓶頸與工作是否真正發生。

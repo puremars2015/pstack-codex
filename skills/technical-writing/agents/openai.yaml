@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: technical-writing
+  short_description: 撰寫或審查文件、設計提案、PR 說明與提交訊息，讓內容清楚、精準且容易閱讀。

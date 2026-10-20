@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-experience-first
+  short_description: 在產品與介面設計取捨時，以使用者體驗為優先，完成真正好用且完整的功能。

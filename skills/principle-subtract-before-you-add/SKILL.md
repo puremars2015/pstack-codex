@@ -1,0 +1,20 @@
+---
+name: principle-subtract-before-you-add
+description: 新增功能或重構前，先移除死碼、重複驗證與過時引用，再在較簡單的基礎上實作。
+---
+
+Read [the Codex runtime contract](../poteto-mode/references/codex-runtime.md) before applying this workflow.
+
+
+# Subtract Before You Add
+
+When evolving a system, remove complexity first, then build. Default to subtraction.
+
+Make simplification a continual investment. Leave the design slightly simpler and more capable behind the same or smaller surface than you found it.
+
+- Sequence removal before construction
+- Cut before you polish (get to the minimum before investing in quality)
+- Design for observed usage, not speculative edge cases
+- No speculative validators, parsers, or guards beyond what the spec demands
+- Simplify prompts (remove redundant instructions, excessive templates)
+- When a reference has no novel content, delete it rather than leaving a stub

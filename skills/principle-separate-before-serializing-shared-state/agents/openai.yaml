@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-separate-before-serializing-shared-state
+  short_description: 遇到並行寫入時先消除不必要的共享狀態，只有真正需要單一寫入者時才序列化。

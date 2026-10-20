@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: show-me-your-work
+  short_description: 為長時間或需要稽核的任務，記錄重要決策、替代方案、依據與目前狀態。

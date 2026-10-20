@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-make-operations-idempotent
+  short_description: 設計可重試的命令與狀態變更，使重複執行或中途失敗後仍能收斂到相同結果。

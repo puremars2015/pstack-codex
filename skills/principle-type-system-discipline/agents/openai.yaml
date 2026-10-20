@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-type-system-discipline
+  short_description: 透過型別表達有效狀態、語意差異與完整分支，在邊界解析外部資料並減少非法組合。

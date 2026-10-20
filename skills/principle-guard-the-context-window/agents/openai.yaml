@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-guard-the-context-window
+  short_description: 處理大量資訊時控制主對話的上下文用量，保留精要證據並在允許時分工探索。

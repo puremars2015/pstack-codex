@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-redesign-from-first-principles
+  short_description: 整合新需求時回到根本模型，思考需求若從一開始就存在，系統應如何設計。

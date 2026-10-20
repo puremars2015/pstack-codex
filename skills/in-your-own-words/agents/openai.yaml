@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: in-your-own-words
+  short_description: 在你要求時，先用自己的話重述目標、問題、限制與完成條件。

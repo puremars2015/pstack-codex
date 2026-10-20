@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: sharpen
+  short_description: 在你要求時，補強提示詞的素材、方法與驗收證據，不直接執行提示詞中的任務。

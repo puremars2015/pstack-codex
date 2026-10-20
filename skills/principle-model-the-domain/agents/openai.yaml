@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-model-the-domain
+  short_description: 以貼合領域的型別、狀態機或資料結構表達規則，減少分散的條件判斷。

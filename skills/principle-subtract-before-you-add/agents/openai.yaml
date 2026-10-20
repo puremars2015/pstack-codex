@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-subtract-before-you-add
+  short_description: 新增功能或重構前，先移除死碼、重複驗證與過時引用，再在較簡單的基礎上實作。

@@ -1,0 +1,3 @@
+interface:
+  display_name: setup-pstack
+  short_description: 設定 Codex 版 pstack 的工作流程偏好與角色選項，保留目前聊天的預設模型。

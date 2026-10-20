@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: no-comments
+  short_description: 檢查過時或重複的程式註解，保留必要契約、設計理由、授權與工具指示。

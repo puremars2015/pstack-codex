@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-foundational-thinking
+  short_description: 撰寫邏輯前先釐清核心資料結構、型別與共享狀態，讓後續程式自然形成。

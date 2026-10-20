@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: poteto-help
+  short_description: 說明 pstack 的技能與適用情境，依你的目標推薦流程並提供可直接使用的提示。

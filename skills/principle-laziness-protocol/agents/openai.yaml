@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-laziness-protocol
+  short_description: 優先刪除多餘內容，以能解決問題的最小變更完成工作，避免不必要的抽象與層次。

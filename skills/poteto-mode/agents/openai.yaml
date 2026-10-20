@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: poteto-mode
+  short_description: 在你指定 pstack 工作方式時，選擇適合的工程流程，完成分析、實作與驗證。

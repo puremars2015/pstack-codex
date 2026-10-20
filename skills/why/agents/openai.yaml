@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: why
+  short_description: 根據原始碼歷史、PR 與可存取紀錄，重建某項設計存在的原因並區分事實與推論。

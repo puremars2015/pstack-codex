@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: teach
+  short_description: 以具體範例、程式行為與設計理由，逐步教你理解子系統或某項變更。

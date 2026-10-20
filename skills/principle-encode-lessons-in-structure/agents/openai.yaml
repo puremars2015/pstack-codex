@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-encode-lessons-in-structure
+  short_description: 將反覆出現的經驗轉為型別、檢查或結構約束，減少依賴文字提醒與人工記憶。

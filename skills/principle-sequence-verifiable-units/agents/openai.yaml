@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-sequence-verifiable-units
+  short_description: 將多步驟工作拆成能獨立驗證的單位，依相依順序完成並逐項確認結果。

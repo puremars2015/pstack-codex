@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: tdd
+  short_description: 修復有低成本測試路徑的問題時，先建立會失敗的回歸測試，再修正並確認通過。

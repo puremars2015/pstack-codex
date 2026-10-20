@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: typescript-best-practices
+  short_description: 閱讀或修改 TypeScript 時，以具體型別設計與語法實踐型別系統紀律。

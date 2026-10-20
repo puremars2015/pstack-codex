@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-prove-it-works
+  short_description: 宣告完成前檢查真正的產物與行為，用實際執行證據證明結果符合要求。

@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: automate-me
+  short_description: 根據你在相關任務中展現的偏好，建立個人化工程工作流程技能。

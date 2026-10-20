@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: interrogate
+  short_description: 針對具體程式差異進行對抗式審查，找出可證明的缺陷與結構問題。

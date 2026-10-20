@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: figure-it-out
+  short_description: 當標準流程不適用時，設計有明確完成條件與停止界限的實證工作流程。

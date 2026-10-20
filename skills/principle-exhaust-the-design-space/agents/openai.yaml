@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-exhaust-the-design-space
+  short_description: 面對缺乏先例的重要設計，先比較少量候選原型，以觀察結果決定合適方案。

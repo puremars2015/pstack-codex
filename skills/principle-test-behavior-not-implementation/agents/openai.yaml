@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-test-behavior-not-implementation
+  short_description: 以使用者能觀察的行為撰寫測試，避免測試綁定內部實作細節或只驗證模擬物件。

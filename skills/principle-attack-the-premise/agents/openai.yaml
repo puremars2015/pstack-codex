@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-attack-the-premise
+  short_description: 當多次修正都卡在同一關卡時，先寫出共同前提並直接驗證，避免繼續沿用錯誤假設。

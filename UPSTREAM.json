@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/cursor/plugins",
+  "directory": "pstack",
+  "commit": "88d47514b82e7c44f00f2b2a72ff6dd12158038c",
+  "version": "0.15.29",
+  "license": "MIT",
+  "adaptation_version": "0.1.2",
+  "removed": [
+    "make-bot-ui",
+    "Cursor automation pack",
+    "Cursor custom-agent registration",
+    "platform-specific shell and Bun orchestration scripts"
+  ],
+  "adaptation": "Portable principles and selected standalone guidance retained; workflow entrypoints and 23 playbooks rewritten for Codex. No upstream authorship or endorsement of the adaptation implied.",
+  "description_language": "zh-Hant"
+}

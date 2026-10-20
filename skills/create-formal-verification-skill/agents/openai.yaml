@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: create-formal-verification-skill
+  short_description: 針對明確性質建立可重現的專案形式驗證技能，記錄假設、界限與實際驗證結果。

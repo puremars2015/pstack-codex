@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-migrate-callers-then-delete-legacy-apis
+  short_description: 遷移內部 API 時同步更新呼叫端並移除舊路徑，避免留下無需求支撐的相容層。

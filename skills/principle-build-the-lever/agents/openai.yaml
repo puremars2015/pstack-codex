@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-build-the-lever
+  short_description: 對值得自動化或重現的工作，建立最小可重跑工具，讓執行與驗證都有具體產物。

@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: maintain-verification-skill
+  short_description: 修復專案驗證技能與功能對照表的落差，重新執行受影響的真實操作路徑。

@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: bro
+  short_description: 在你要求時，以白話重新說明技術內容，保留原本結論、限制與必要細節。

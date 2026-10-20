@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: swarm
+  short_description: 將允許平行處理的工作切成明確負責範圍，彙整各項實作、調查或驗證證據。

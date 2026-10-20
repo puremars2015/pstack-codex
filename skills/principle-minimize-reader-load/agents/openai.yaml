@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-minimize-reader-load
+  short_description: 減少追查程式所需的層次、隱藏狀態與閱讀負擔，讓資料流與責任更容易理解。

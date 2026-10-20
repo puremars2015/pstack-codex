@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: unslop
+  short_description: 刪除文字中的空泛措辭與制式 AI 語氣，保留原意並貼近讀者需要的表達方式。

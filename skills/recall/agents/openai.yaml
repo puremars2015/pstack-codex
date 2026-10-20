@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: recall
+  short_description: 根據可存取的相關聊天與專案紀錄，重建任務背景、既定決策與尚未完成的工作。

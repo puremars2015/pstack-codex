@@ -1,0 +1,12 @@
+{
+  "name": "pstack-codex",
+  "version": "0.1.2",
+  "description": "適用於 Codex 的 pstack 核心工程技能與工作流程。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "pstack Codex 版",
+    "shortDescription": "嚴謹的工程分析、實作與驗證流程",
+    "longDescription": "包含 24 條工程原則、23 套工作流程與 31 個實用技能，已調整為 Codex 使用方式，預設沿用目前聊天模型。",
+    "capabilities": []
+  }
+}

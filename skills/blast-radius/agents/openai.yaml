@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: blast-radius
+  short_description: 追查變更可能影響的其他路徑，執行真實程式驗證關鍵安全假設。

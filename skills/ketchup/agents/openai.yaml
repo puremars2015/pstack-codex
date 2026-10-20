@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: ketchup
+  short_description: 整理你上次查看後的進展、驗證結果、阻礙，以及目前等待你決定的事項。

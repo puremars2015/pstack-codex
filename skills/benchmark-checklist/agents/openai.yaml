@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: benchmark-checklist
+  short_description: 檢查效能測量的瓶頸、公平性、錯誤、重現性與實際影響，再回報或採用結果。

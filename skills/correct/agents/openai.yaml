@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: correct
+  short_description: 根據你反覆提出的修正，找出共同原因，將改善落實於架構、型別或檢查機制。

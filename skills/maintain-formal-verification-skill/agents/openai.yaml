@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: maintain-formal-verification-skill
+  short_description: 程式變更後更新既有形式模型與驗證技能，重新檢查性質並釐清失敗原因。

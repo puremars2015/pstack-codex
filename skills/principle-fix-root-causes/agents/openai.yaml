@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-fix-root-causes
+  short_description: 從症狀追查最早出錯的決策與不變條件，修正根因，避免只掩蓋表面問題。

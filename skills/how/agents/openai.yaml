@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: how
+  short_description: 沿著程式碼、呼叫端與執行證據，追查既有子系統的資料流與實際運作方式。

@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: reflect
+  short_description: 任務結束後根據實際證據整理經驗，將有用的教訓落實為工具或技能改進。

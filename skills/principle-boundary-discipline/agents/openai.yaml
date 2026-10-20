@@ -1,0 +1,5 @@
+policy:
+  allow_implicit_invocation: false
+interface:
+  display_name: principle-boundary-discipline
+  short_description: 將驗證與錯誤處理集中在系統邊界，讓內部業務邏輯依賴明確契約並保持單純。
